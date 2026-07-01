@@ -6,8 +6,8 @@
 
 # Which feed list to read from the PRIVATE feeds repo.
 # Must match a file there: app_name "news" -> reads news.json
-app_name: "APP_NAME"
-feed_title: "APP TITLE"
+app_name: "podcasts"
+feed_title: "podcasts"
 
 # ---- Output ----
 output_html: false          # false = clean text (AI-rewritten/stripped)
@@ -17,8 +17,8 @@ max_output_items: 10000
 retention_days: 365
 
 # ---- This app's own Pages URL ----
-site_title: "My RSS Feed"
-site_base_url: "https://USERNAME.github.io/app-APPNAME"
+site_title: "Podcasts"
+site_base_url: "https://mtblq.github.io/app-podcasts"
 
 # ---- Fetching ----
 fetch_workers: 12
