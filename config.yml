@@ -18,7 +18,7 @@ max_output_items: 10000
 retention_days: 365
 
 # ---- This app's own Pages URL ----
-site_title: "Podcasts"
+site_title: "podcasts"
 site_base_url: "https://mtblq.github.io/app-podcasts"
 
 # ---- Fetching ----
