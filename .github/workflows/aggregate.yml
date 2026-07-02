@@ -20,8 +20,8 @@ permissions:
 
 env:
   # >>> EDIT THESE TWO for this app <<<
-  APP_NAME: "APP_NAME"                                  # which feed file to read
-  PRIVATE_FEEDS_REPO: "USERNAME/cycling-rss-feeds"      # the private feeds repo
+  APP_NAME: "podcasts"                                  # which feed file to read
+  PRIVATE_FEEDS_REPO: "mtblq/cycling-rss-feeds"      # the private feeds repo
 
 jobs:
   build:
