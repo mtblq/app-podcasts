@@ -28,7 +28,7 @@ fetch_retries: 2
 
 # ---- AI rewrite / translation ----
 translate_enabled: true
-openai_model: "chatgpt-4o-latest"
+openai_model: "gpt-5.4-mini"
 openai_base_url: "https://api.openai.com/v1"
 target_language: "English"
 rewrites_per_run: 1000
