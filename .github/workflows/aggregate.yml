@@ -3,7 +3,7 @@ name: Aggregate feed
 on:
   schedule:
     # >>> EDIT THIS CRON for this app's own schedule (UTC) <<<
-    - cron: "0 */3 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
